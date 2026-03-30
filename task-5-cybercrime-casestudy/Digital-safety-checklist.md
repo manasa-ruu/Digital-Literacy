@@ -16,3 +16,10 @@
       (impersonation accounts used for SOS money scams).
  8) **Check the "S" in HTTPS** Before entering any credentials on a college portal or a government site, ensure the URL starts with https://. Look for the padlock
       icon in the address bar to ensure the connection is encrypted.
+
+🚨 **How to Report Cybercrime**
+
+If you or someone you know falls victim to a digital scam or online harassment, do not hesitate to use the official government channels:
+Immediate Financial Fraud: Call the National Helpline 1930 instantly to freeze the transaction.
+General Reporting: Log your complaint at the National Cyber Crime Reporting Portal: cybercrime.gov.in
+
